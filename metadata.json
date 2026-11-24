@@ -1,0 +1,8 @@
+{
+  "name": "Sumatif bhs inggris kelas 5 bab 4 kelas 5",
+  "description": "Aplikasi Asesmen Sumatif Bahasa Inggris Kelas 5 SD Negeri 3 Loloan Timur materi My Neighbourhood (30 PG & 5 PGK Kategori), analisis butir soal, unduh PDF kisi-kisi & hasil tes, serta sinkronisasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
